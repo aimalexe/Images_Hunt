@@ -1,0 +1,12 @@
+$primary : #f38cc6;
+$info: #0ba899; 
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+@import '../../node_modules/bootstrap/scss/mixins';
+
+$custom-theme: (
+    "santhra": rgb(248, 178, 47),
+);
+$theme-colors: map-merge($custom-theme , $theme-colors );
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
