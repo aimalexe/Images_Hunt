@@ -2,7 +2,7 @@
   "name": "images_hunt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aimalexe.github.io/Images_Hunt/"
+  "homepage": "http://aimalexe.github.io/Images_Hunt/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
